@@ -1,0 +1,138 @@
+.row1{
+    background-color: white;
+    border-bottom:1.7px solid rgb(180, 180, 180);
+ 
+    }
+    .container{
+        margin: 0px auto;
+        width:960px;
+        height:85px;
+    }
+    .container2{
+        margin: 0px auto;
+        width:960px;
+ 
+    }
+    .name{
+        background-color: rgb(64, 155, 155);
+       float:left;
+       height:100%;
+       box-sizing:border-box;
+       text-align:center;
+       color:white;
+       padding:0px 15px;
+    }
+ 
+    .menu{
+ 
+        float:right;
+        height:100%;
+        box-sizing:border-box;
+        padding:30px 10px;
+    }
+    .menu>a{
+    text-decoration: none;
+    border-right: 1px solid gray;
+    padding-right:3px;
+    font-size:17px;
+    color:gray;
+    }
+    h1{
+        font-size: 35px;
+        padding: 20px;
+        width: 100px;
+    }
+    body{
+        margin-top:0px;
+    }
+    .container2 div{display:inline-block;}
+    .h2{
+        height:70px;
+        border-bottom:1.7px solid rgba(180, 180, 180, 0.774);
+        box-sizing: border-box;
+        width:100%;
+        padding:10px 5px;
+        margin-bottom:10px;
+ 
+    }
+ 
+    h2{
+        color:rgb(64, 155, 155);
+        margin:10px;
+        box-sizing: border-box;
+        width:100%;
+        font-size:29px;
+ 
+    }
+    .portfolio{
+        box-sizing: border-box;
+        padding: 10px 30px;
+        width:650px;
+        background:white;
+        margin-top:25px;
+        margin-bottom:25px;
+        border: 0.7px solid rgba(180, 180, 180, 0.774);
+    }
+   .image_r{
+      float:right;
+   }
+   .image_l{
+ 
+    float:left; }
+ .image_l,.image_r{
+    position: relative;
+    margin: 5px 0px;
+ 
+ }
+ .image_l>.p, .image_r>.p{
+ box-sizing: border-box;
+ position:absolute;
+ height:30px;
+ width:100%;
+ bottom:15px;
+ background: rgba(123, 224, 224, 0.836);
+ color:white;
+ text-align:center;
+ padding: 5px;
+ }
+    .connect{
+      background: white;
+      border: 0.7px solid rgba(180, 180, 180, 0.774);
+      padding:10px;
+      float:right;
+      margin: 25px auto;
+      width:270px;
+      box-sizing: border-box;
+    }
+ 
+    body{
+        background:fixed url(../images/concrete_seamless.png);
+    }
+    .h2_2{
+    text-align:center;
+    border-bottom:1px solid rgba(180, 180, 180, 0.774);
+    margin-bottom:10px;
+    width: 230px;
+    height:65px;
+    }
+    .sm{
+        margin: 10px 30px;
+ 
+    }
+ 
+    footer{
+        height:80px;
+        border-top: 5px solid rgb(64, 155, 155);
+        background: rgb(75, 74, 74);
+        color: rgba(240, 236, 236, 0.774);
+        width:100%;
+        text-align: center;
+        padding-top:25px;
+       box-sizing: border-box;
+        bottom:0;
+        float:left;
+        left:0;
+        right:0;
+        }
+ 
+ footer>p{margin: 3px;}

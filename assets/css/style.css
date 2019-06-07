@@ -1,0 +1,127 @@
+/* about me */
+.section1{
+    background-color: white;
+    border-bottom:1.7px solid rgb(180, 180, 180);
+    
+    }
+    .container{
+       margin: 0px auto;
+       width:960px;
+       height:85px;
+    }
+    .container2{
+       margin: 0px auto;
+       width:960px;
+    
+    }
+    .name{
+       background-color: rgb(64, 155, 155);
+      float:left;
+      height:100%;
+      box-sizing:border-box;
+      text-align:center;
+      color:white;
+      padding:0px 15px;
+    }
+    
+    .menu{
+    
+       float:right;
+       height:100%;
+       box-sizing:border-box;
+       padding:30px 10px;
+    }
+    .menu>a{
+    text-decoration: none;
+    border-right: 1px solid gray;
+    padding-right:3px;
+    font-size:17px;
+    color:gray;
+    }
+    h1{
+       font-size: 35px;
+       width: 100px;
+       float: left;
+       padding: 20px;
+    }
+    body{
+       margin-top:0px;
+    }
+    .container2 div{
+        display:inline-block;
+    }
+    .about_me{
+       height:70px;
+       border-bottom:1.7px solid rgba(180, 180, 180, 0.774);
+       box-sizing: border-box;
+       width:100%;
+       padding:10px 5px;
+       margin-bottom:10px;
+    
+    }
+    
+    h2{
+       color:rgb(64, 155, 155);
+       margin:10px;
+       box-sizing: border-box;
+       width:100%;
+       font-size:29px;
+    
+    }
+    .about{
+       box-sizing: border-box;
+       padding:10px;
+       width:650px;
+       background:white;
+       margin-top:25px;
+       margin-bottom:25px;
+       border: 0.7px solid rgba(180, 180, 180, 0.774);
+    }
+    .image{
+       margin: 5px 20px 10px 5px;
+       float:left;
+    }
+    .info>p{
+    
+       margin:0px;
+       display:inline;
+       text-overflow: auto;
+     font-size: 20px;
+     line-height: 1.4em;
+    }
+    .contact{
+     background: white;
+     border: 0.7px solid rgba(180, 180, 180, 0.774);
+     padding:10px;
+     float:right;
+     margin: 25px auto;
+     width:270px;
+     box-sizing: border-box;
+    }
+    body{
+       background:fixed url(../images/concrete_seamless.png);
+    }
+    .contact_me{
+    text-align:center;
+    border-bottom:1px solid rgba(180, 180, 180, 0.774);
+    margin-bottom:10px;
+    width: 230px;
+    height:65px;
+    }
+    .sm{
+       margin: 10px 30px;
+    
+    }
+    footer{
+       clear: both;
+       height:80px;
+       border-top: 5px solid rgb(64, 155, 155);
+       background: rgb(75, 74, 74);
+       color: rgba(240, 236, 236, 0.774);
+       bottom:0;
+       left:0;
+       width:100%;
+       text-align: center;
+       padding-top:25px;
+       }
+

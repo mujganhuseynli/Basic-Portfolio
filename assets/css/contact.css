@@ -1,0 +1,161 @@
+.row1{
+    background-color: white;
+    border-bottom:1.7px solid rgb(180, 180, 180);
+ 
+    }
+    .container{
+        margin: 0px auto;
+        width:960px;
+        height:85px;
+    }
+    .container2{
+        margin: 0px auto;
+        width:960px;
+ 
+    }
+    .name{
+        background-color: rgb(64, 155, 155);
+       float:left;
+       height:100%;
+       box-sizing:border-box;
+       text-align:center;
+       color:white;
+       padding:0px 15px;
+       font-family: 'Amaranth', sans-serif;
+    }
+ 
+    .menu{
+ 
+        float:right;
+        height:100%;
+        box-sizing:border-box;
+        padding:30px 10px;
+    }
+    .menu>a{
+    text-decoration: none;
+    border-right: 1px solid gray;
+    padding-right:3px;
+    font-size:17px;
+    color:gray;
+    }
+    h1{
+        font-family: 'Amaranth', sans-serif;
+        font-size: 35px;
+        width: 100px;
+        padding: 20px;
+    }
+    body{
+        margin-top:0px;
+    }
+    .container2 div{display:inline-block;}
+    .h2{
+        height:70px;
+        border-bottom:1.7px solid rgba(180, 180, 180, 0.774);
+        box-sizing: border-box;
+        width:100%;
+        padding:10px 5px;
+        margin-bottom:10px;
+ 
+    }
+ 
+    h2{
+        font-family: 'Amaranth', sans-serif;
+        color:rgb(64, 155, 155);
+        margin:10px;
+        box-sizing: border-box;
+        width:100%;
+        font-size:29px;
+ 
+    }
+    .contact{
+        box-sizing: border-box;
+        padding: 10px 30px;
+        width:650px;
+        background:white;
+        margin-top:25px;
+        margin-bottom:25px;
+        border: 0.7px solid rgba(180, 180, 180, 0.774);
+    }
+ 
+    label{
+        display:block;
+        padding: 10px 0px;
+        font-size:19px;
+        box-sizing: border-box;
+        color:rgb(114, 111, 111);
+    }
+ 
+    .txt{
+        height:30px;
+        width:100%;
+        margin-left:0px;
+        padding-left:5px;
+    }
+  .info{
+      width:100%;
+  }
+ form>ul{
+    padding-left:0px;
+ 
+ }
+ .msg{
+ height:250px;
+ width:100%;
+ }
+ 
+ .sbmt{
+    border: 1px solid rgb(64, 155, 155);
+    background: rgb(64, 155, 155);
+    color:white;
+    height:40px;
+    width:100px;
+    font-size:18px;
+ 
+ }
+ 
+ 
+ 
+    .connect{
+      background: white;
+      border: 0.7px solid rgba(180, 180, 180, 0.774);
+      padding:10px;
+      float:right;
+      margin: 25px auto;
+      width:270px;
+      box-sizing: border-box;
+    }
+ 
+    body{
+        background:fixed url(./images/concrete_seamless.png);
+    }
+    .h2_2{
+    text-align:center;
+    border-bottom:1px solid rgba(180, 180, 180, 0.774);
+    margin-bottom:10px;
+    width: 230px;
+    height:65px;
+    }
+    .sm{
+        margin: 10px 30px;
+ 
+    }
+ 
+ 
+    footer{
+        clear: both;
+        height:80px;
+        border-top: 5px solid rgb(64, 155, 155);
+        background: rgb(75, 74, 74);
+        color: rgba(240, 236, 236, 0.774);
+        width:100%;
+        text-align: center;
+        padding-top:25px;
+       box-sizing: border-box;
+        bottom:0;
+        float:left;
+        left:0;
+        right:0;
+ 
+        }
+ 
+ footer>p{margin: 3px;}
